@@ -4,7 +4,7 @@ var ad_block={
     a_url:[],
     class_ar:[],
     id_ar:[],
-    tag_ar:['a'],
+    tag_ar:[],
     block:function(){
         if(this.iframe_url.length){
             this.iframe_block();
